@@ -39,7 +39,7 @@ __It is important to know that the paths must be without quotes and in English._
 
 # Download
 
-[![Download .exe file](https://img.shields.io/badge/Download-EXE-brightgreen)](https://github.com/neomitt/launchbat/releases/download/v1.0.0/BatchFileCreator.exe)
+[![Download .exe file](https://img.shields.io/badge/Download-EXE-brightgreen)](https://github.com/neomittt/launchbat/releases/download/v1.0.0/BatchFileCreator.exe)
 
 
 
