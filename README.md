@@ -12,7 +12,7 @@ Batch File Creator is a simple desktop application written in C# that allows use
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/BatchFileCreator.git
+    git clone https://github.com/neomittt/BatchFileCreator.git
     ```
 
 2. Open the project in Visual Studio.
